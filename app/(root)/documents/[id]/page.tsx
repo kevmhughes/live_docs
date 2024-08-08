@@ -1,6 +1,7 @@
 import { Editor } from '@/components/editor/Editor'
 import Header from '@/components/Header'
 import React from 'react'
+import { SignedIn, SignedOut, SignInButton, UserButton } from "@clerk/nextjs"
 
 const Document = () => {
   return (
@@ -11,6 +12,12 @@ const Document = () => {
             This is a fake document title
           </p>
         </div>
+        <SignedOut>
+            <SignInButton />
+          </SignedOut>
+          <SignedIn>
+            <UserButton />
+          </SignedIn>
       </Header>
         <Editor />
     </div>
