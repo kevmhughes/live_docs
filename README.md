@@ -37,7 +37,7 @@ LiveDocs is a fully responsive online word processor that offers a seamless, col
 * React 
 * Next.js
 
-### Other
+### Development Tools
 * TypeScript - static typing for JavaScript, improves code quality and debugging
 * Clerk - user authentication
 * Liveblocks - real-time collaboration platform 
