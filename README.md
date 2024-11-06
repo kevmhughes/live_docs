@@ -37,9 +37,6 @@ LiveDocs is a fully responsive online word processor that offers a seamless, col
 * React 
 * Next.js
 
-### Hosting 
-* Vercel
-
 ### Other
 * TypeScript - static typing for JavaScript, improves code quality and debugging
 * Clerk - user authentication
@@ -48,6 +45,9 @@ LiveDocs is a fully responsive online word processor that offers a seamless, col
 * ShadCN UI Components - pre-built UI components using React and Tailwind CSS
 * Tailwind CSS - utility-first CSS framework
 * Sentry - real-time error tracking and performance monitoring
+
+### Hosting 
+* Vercel
 
 # Features
 
