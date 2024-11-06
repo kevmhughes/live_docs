@@ -35,7 +35,7 @@ LiveDocs is a fully responsive online word processor that offers a seamless, col
 
 ### Libraries & Frameworks
 * React 
-* Next.JS
+* Next.js
 
 ### Hosting 
 * Vercel
