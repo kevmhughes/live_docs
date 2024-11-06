@@ -33,13 +33,13 @@ Live Docs is a fully responsive online word processor that offers a seamless, co
 * Vercel
 
 ### Other
-* TypeScript - Static typing for JavaScript, improves code quality and debugging
-* Clerk - User authentication
-* Liveblocks - Real-time collaboration platform for multiplayer and co-editing features
-* Lexical Editor - High-performance, customizable rich text editor for React
-* ShadCN UI Components - Pre-built UI components using React and Tailwind CSS
-* Tailwind CSS - Utility-first CSS framework for fast, responsive UI development
-* Sentry - Real-time error tracking and performance monitoring
+* TypeScript - static typing for JavaScript, improves code quality and debugging
+* Clerk - user authentication
+* Liveblocks - real-time collaboration platform for multiplayer and co-editing features
+* Lexical Editor - high-performance, customizable rich text editor for React
+* ShadCN UI Components - pre-built UI components using React and Tailwind CSS
+* Tailwind CSS - utility-first CSS framework for fast, responsive UI development
+* Sentry - real-time error tracking and performance monitoring
 
 # Features
 
