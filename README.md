@@ -13,12 +13,18 @@ Live Docs is a fully responsive online word processor that offers a seamless, co
 #### Word processor features
 <img src="readme-images/desktop_1.png" />
 
+#### Invite a collaborator
+<img src="readme-images/desktop_2.png" />
+
 ## Mobile:
 
 #### Word processor features
 <kbd>
 <img src="readme-images/mobile_1.png" width="250"/>
 </kbd>
+
+#### Invite a collaborator
+<img src="readme-images/mobile_2.png" />
 
 # Tools Used
 
