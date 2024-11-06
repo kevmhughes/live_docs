@@ -2,7 +2,7 @@
 
 #### Live Docs is a fully responsive collaborative document app built with React, Next.js, Typescript and Liveblocks.
 
-Use the app [here](live-docs-sepia-six.vercel.app)
+Use the app [here](https://github.com/kevmhughes/live_docs?tab=readme-ov-file)
 
 # Description
 Live Docs is a fully responsive online word processor that offers a seamless, collaborative writing experience. Much like Google Docs, it empowers users to work together on documents in real time, allowing multiple individuals to edit, comment, and track changes simultaneously. 
