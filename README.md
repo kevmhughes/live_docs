@@ -1,4 +1,4 @@
-# Live Docs
+# LiveDocs
 
 #### LiveDocs is a fully responsive collaborative document app built with React, Next.js, Typescript and Liveblocks.
 
