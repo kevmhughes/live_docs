@@ -9,7 +9,7 @@ LiveDocs is a fully responsive online word processor that offers a seamless, col
  
 # Take a Look at the App
 
-<img src="readme-images/preview.gif" alt="App Demo"/>
+<img src="readme-images/preview.gif" alt="App Demo" width="600"/>
 
 ## Desktop:
 #### Word processor features
