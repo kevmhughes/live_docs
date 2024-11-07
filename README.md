@@ -15,11 +15,16 @@ LiveDocs is a fully responsive online word processor that offers a seamless, col
 <img src="readme-images/desktop_1.png" />
 </kbd>
 
+
 #### Invite a collaborator
+<kbd>
 <img src="readme-images/desktop_2.png" />
+</kbd>
 
 #### Commenting in real time
+<kbd>
 <img src="readme-images/desktop_3.png" />
+</kbd>
 
 ## Mobile:
 
