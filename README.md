@@ -2,6 +2,11 @@
 
 #### LiveDocs is a fully responsive collaborative document app built with React, Next.js, Typescript and Liveblocks.
 
+#### live mockup
+<kbd>
+<img src="readme-images/preview.gif" alt="App Demo" width="300"/>
+</kbd>
+
 Use the app [here](https://live-docs-sepia-six.vercel.app)
 
 # Description
@@ -27,11 +32,6 @@ LiveDocs is a fully responsive online word processor that offers a seamless, col
 </kbd>
 
 ## Mobile:
-
-#### live mockup
-<kbd>
-<img src="readme-images/preview.gif" alt="App Demo" width="300"/>
-</kbd>
 
 #### Word processor features
 <kbd>
