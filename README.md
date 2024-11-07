@@ -1,6 +1,6 @@
 # LiveDocs
 
-#### LiveDocs is a fully responsive collaborative document app built with React, Next.js, Typescript and Liveblocks.
+LiveDocs is a fully responsive collaborative document app built with React, Next.js, Typescript and Liveblocks.
 
 Use the app [here](https://live-docs-sepia-six.vercel.app)
 
