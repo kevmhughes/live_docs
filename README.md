@@ -1,13 +1,15 @@
-# Live Docs
+# LiveDocs
 
-#### Live Docs is a fully responsive collaborative document app built with React, Next.js, Typescript and Liveblocks.
+#### LiveDocs is a fully responsive collaborative document app built with React, Next.js, Typescript and Liveblocks.
 
 Use the app [here](https://live-docs-sepia-six.vercel.app)
 
 # Description
-Live Docs is a fully responsive online word processor that offers a seamless, collaborative writing experience. Much like Google Docs, it empowers users to work together on documents in real time, allowing multiple individuals to edit, comment, and track changes simultaneously. 
+LiveDocs is a fully responsive online word processor that offers a seamless, collaborative writing experience. Much like Google Docs, it empowers users to work together on documents in real time, allowing multiple individuals to edit, comment, and track changes simultaneously. 
  
 # Take a Look at the App
+
+<img src="readme-images/preview.gif" alt="App Demo" width="300"/>
 
 ## Desktop:
 #### Word processor features
@@ -24,7 +26,9 @@ Live Docs is a fully responsive online word processor that offers a seamless, co
 </kbd>
 
 #### Invite a collaborator
-<img src="readme-images/mobile_2.png" />
+<kbd>
+<img src="readme-images/mobile_2.png" width="250"/>
+</kbd>
 
 # Tools Used
 
@@ -33,12 +37,9 @@ Live Docs is a fully responsive online word processor that offers a seamless, co
 
 ### Libraries & Frameworks
 * React 
-* Next.JS
+* Next.js
 
-### Hosting 
-* Vercel
-
-### Other
+### Development Tools
 * TypeScript - static typing for JavaScript, improves code quality and debugging
 * Clerk - user authentication
 * Liveblocks - real-time collaboration platform 
@@ -46,6 +47,9 @@ Live Docs is a fully responsive online word processor that offers a seamless, co
 * ShadCN UI Components - pre-built UI components using React and Tailwind CSS
 * Tailwind CSS - utility-first CSS framework
 * Sentry - real-time error tracking and performance monitoring
+
+### Hosting 
+* Vercel
 
 # Features
 
