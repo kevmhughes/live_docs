@@ -27,6 +27,8 @@ LiveDocs is a fully responsive online word processor that offers a seamless, col
 #### Word processor features
 <kbd>
 <img src="readme-images/mobile_1.png" width="250"/>
+ <img src="readme-images/mobile_2.png" width="250"/>
+ <img src="readme-images/mobile_3.png" width="250"/>
 </kbd>
 
 #### Invite a collaborator
